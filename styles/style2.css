@@ -217,7 +217,7 @@ main {
 
     .courses {
         grid-template-columns: repeat(2, 1fr);
-        grid-column-gap: 60px;
+        grid-column-gap: 80px;
 
     }
 }
